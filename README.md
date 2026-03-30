@@ -27,4 +27,4 @@ hw1-linxiao/
 
 ## Walkthrough Video
 
-[Add your YouTube link here]
+[]
